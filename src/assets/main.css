@@ -1,0 +1,54 @@
+/* Yekan Bakh */
+@font-face {
+    font-family: YekanBakhFaNum;
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: -1px !important;
+    src:local("YekanBakhFaNum"), url('/public/fonts/woff/YekanBakhFaNum-Light.woff') format('woff'),
+      url('/public/fonts/woff2/YekanBakhFaNum-Light.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: YekanBakhFaNum;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: -1px !important;
+    src: local("YekanBakhFaNum"), url('/public/fonts/woff/YekanBakhFaNum-Regular.woff') format('woff'),
+      url('/public/fonts/woff2/YekanBakhFaNum-Regular.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: YekanBakhFaNum;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: -1px !important;
+    src: local("YekanBakhFaNum"), url('/public/fonts/woff/YekanBakhFaNum-SemiBold.woff') format('woff'),
+      url('/public/fonts/woff2/YekanBakhFaNum-SemiBold.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: YekanBakhFaNum;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: -1px !important;
+    src: local("YekanBakhFaNum"), url('/public/fonts/woff/YekanBakhFaNum-Bold.woff') format('woff'),
+      url('/public/fonts/woff2/YekanBakhFaNum-Bold.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: YekanBakhFaNum;
+    font-style: normal;
+    font-weight: 800;
+    letter-spacing: -1px !important;
+    src: local("YekanBakhFaNum"), url('/public/fonts/woff/YekanBakhFaNum-ExtraBold.woff') format('woff'),
+      url('/public/fonts/woff2/YekanBakhFaNum-ExtraBold.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: YekanBakhFaNum;
+    font-style: normal;
+    font-weight: 950;
+    letter-spacing: -1px !important;
+    src: local("YekanBakhFaNum"), url('/public/fonts/woff/YekanBakhFaNum-ExtraBlack.woff') format('woff'),
+      url('/public/fonts/woff2/YekanBakhFaNum-ExtraBlack.woff2') format('woff2');
+  }
